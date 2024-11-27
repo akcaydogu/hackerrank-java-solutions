@@ -21,4 +21,8 @@ public class Solution {
         System.out.println("China: " + china);
         System.out.println("France: " + france);
     }
+
+    public static boolean isPalindrome(String s) {
+        return false;
+    }
 }
