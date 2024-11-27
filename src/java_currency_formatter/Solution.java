@@ -22,6 +22,8 @@ public class Solution {
         System.out.println("France: " + france);
     }
     public static boolean isEven(int n) {
+        System.out.println( n % 2 == 0);
+        System.out.println("Well done");
         return n % 2 == 0;
     }
     public static boolean isPalindrome(String s) {
